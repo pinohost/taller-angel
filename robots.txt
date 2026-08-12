@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://especialesangel.github.io/sitemap.xml

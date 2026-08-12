@@ -1,0 +1,12 @@
+{
+  "name": "Torno y Soldadura Especiales Ángel",
+  "short_name": "Especiales Ángel",
+  "description": "Taller de torno y soldadura en Managua, Nicaragua.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#131316",
+  "theme_color": "#131316",
+  "icons": [
+    { "src": "assets/apple-touch-icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
